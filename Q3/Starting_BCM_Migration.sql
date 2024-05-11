@@ -1,0 +1,3 @@
+BEGIN
+  MIGRATION_BCM();
+END;
